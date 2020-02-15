@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.pdb
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.exe.config
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.exe
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.pdb
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.exe
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\bin\Debug\cucimobil_dini.pdb
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.csprojResolveAssemblyReference.cache
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.Form1.resources
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.Properties.Resources.resources
+C:\Users\dini apsari\Documents\Visual Studio 2015\Projects\cucimobil_dini\cucimobil_dini\obj\Debug\cucimobil_dini.csproj.GenerateResource.Cache
